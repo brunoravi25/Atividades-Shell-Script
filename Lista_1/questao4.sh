@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 busca1=$(find /home -name $1)
 busca2=$(find /home -name $2)
 busca3=$(find /home -name $3)

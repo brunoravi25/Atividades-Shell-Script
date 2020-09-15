@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 A=$(ls -l $1)
 B=$(ls -l $2)

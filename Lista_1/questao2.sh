@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 read -p "Digite o nome do primeiro diretório que deseja listar: " dir1
 read -p "Digite o nome do segundo diretório que deseja listar: " dir2
 read -p "Digite o nome do terceiro diretório que deseja listar:" dir3
