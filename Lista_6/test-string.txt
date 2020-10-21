@@ -1,0 +1,10 @@
+       -n STRING
+              the length of STRING is nonzero
+       STRING equivalent to -n STRING
+       -z STRING
+              the length of STRING is zero
+       STRING1 = STRING2
+       STRING1 != STRING2
+       slashes) for shells.  INTEGER may also be -l STRING, which  evaluates
+       to the length of STRING.
+       test treats each of those as it treats any other nonempty STRING.
