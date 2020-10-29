@@ -1,0 +1,5 @@
+       -n VARIABLE
+              the length of VARIABLE is nonzero
+       STRING equivalent to -n STRING
+       -z VARIABLE
+              the length of VARIABLE is zero

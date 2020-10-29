@@ -1,0 +1,12 @@
+       test EXPRESSION
+       [ EXPRESSION ]
+       Exit with the status determined by EXPRESSION.
+       An  omitted  EXPRESSION  defaults to false.  Otherwise, EXPRESSION is
+       ( EXPRESSION )
+              EXPRESSION is true
+       ! EXPRESSION
+              EXPRESSION is false
+       EXPRESSION1 -a EXPRESSION2
+              both EXPRESSION1 and EXPRESSION2 are true
+       EXPRESSION1 -o EXPRESSION2
+              either EXPRESSION1 or EXPRESSION2 is true
