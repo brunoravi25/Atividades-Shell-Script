@@ -1,6 +1,4 @@
 BEGIN {
-	RS="\n"
-	FS=" "
 	usr1=0
 	usr2=0
 	usr3=0
