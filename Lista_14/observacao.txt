@@ -1,0 +1,1 @@
+Para fazer com que estes scripts sejam inicializados juntamente com a máquina foi utilizado a ferramenta crontab -e, adicionando o @reboot e o caminho dos scripts.
